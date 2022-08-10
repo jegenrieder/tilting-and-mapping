@@ -1,5 +1,5 @@
 {
-    "name": "Tilting and mapping",
+    "name": "Tilting and mapping with pitch and volume",
     "description": "",
     "dependencies": {
         "core": "*",
